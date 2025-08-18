@@ -1,0 +1,29 @@
+condition;symptom_short;symptom_desc;representative_words
+Depression, PTSD;Anhedonia;Little interest or pleasure in doing things;anhedonia, disinterested, apathy, bored, indifferent, diminished pleasure, lack motivation, lack enthusiasm, low engagement
+Depression;Sad mood;Feeling down, depressed, or hopeless;sad mood, depressed, hopeless, feeling down, feeling empty, low mood, dysphoria, melancholy, emotional despair
+Depression, PTSD;Sleep Problem;Trouble falling or staying asleep, or sleeping too much;trouble sleeping, insomnia, sleeping too much, oversleep, hypersomnia
+Depression;Energy;Feeling tired or having little energy;fatigue, tired, exhausted, little energy
+Depression;Eating Problem;Poor appetite or overeating;poor appetite, undereating, overeating, hyperphagia
+Depression;Guilt;Feeling bad about yourself or that you are a failure or have let yourself or your family down;guilt, self-blame, self-loathing, self-disgust, let down, failure, inadequate, defeated, disappointed, unworthy, embarassed, disgraced
+Depression, PTSD;Concentration;Trouble concentrating on things;trouble concentrating, poor focus, distracted, inattentive
+Depression;Psychomotor;Moving or speaking so slowly that other people could have noticed? Or so fidgety or restless that you have been moving a lot more than usual;psychomotor retardation, psychomotor agitation, moving slowly, speaking slowly, moving a lot, sluggish, lethargic, fidgety, agitated, hyperactive, jittery
+Depression;Suicide;Thoughts that you would be better off dead, or thoughts of hurting yourself in some way;suicidal thoughts, suicidal ideation, self-harm thoughts, self-injury thoughts
+Anxiety;Nervous;Feeling nervous, anxious, or on edge;nervous, anxious, on edge
+Anxiety;Worrying;Worrying too much about different things, not being able to stop or control worrying;can't stop worrying, too much worrying
+Anxiety;Trouble Relax;Trouble relaxing;trouble relaxing
+Anxiety, Depression;Restless;Being so restless that it's hard to sit still;restless
+Anxiety, PTSD;Irritable;Becoming easily annoyed or irritable or having angry outbursts;annoyed, irritable, angry, aggressive
+Anxiety;Afraid;Feeling afraid as if something awful might happen;afraid
+PTSD;Memory;Repeated, disturbing memories, thoughts, or images of a stressful experience from the past?;disturbing memory, disturbing thoughts, disturbing images
+PTSD;Nightmare;Repeated, disturbing dreams of a stressful experience from the past;disturbing dream, nightmare
+PTSD;Flashback;Suddenly acting or feeling as if a stressful experience were happening again (as if you were reliving it)?;reliving, flashback, intrusive recollection
+PTSD;Triggered;Feeling very upset when something reminded you of a stressful experience from the past;triggered
+PTSD;Physical Reaction;Having physical reactions (e.g., heart pounding, trouble breathing, or sweating) when something reminded you of a stressful experience from the past?; heart pounding, trouble breathing, sweating
+PTSD;Avoidance;Avoid thinking about or talking about a stressful experience from the past or avoid having feelings related to it, avoid activities or situations because they remind you of a stressful experience from the past;avoid thinking, avoid speaking
+PTSD;Amnesia;Trouble remembering important parts of a stressful experience from the past;trouble remembering, amnesia
+PTSD;Detachment;Feeling distant or cut off from other people;detached, withdrawn, alienated, isolated, distant, cut off, estranged
+PTSD;Numb;Feeling emotionally numb or being unable to have loving feelings for those close to you;numb
+PTSD;Pessimistic;Feeling as if your future will somehow be cut short;pessimistic, hopeless, bleak, doomed
+PTSD;Alert;Being “super alert” or watchful on guard;alert, hypervigilant
+PTSD;Jumpy;Feeling jumpy or easily startled?;jumpy, startled
+PTSD;Trauma;Experiencing or witnessing a traumatic event;trauma, traumatic experience, distressing event

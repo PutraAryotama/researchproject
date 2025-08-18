@@ -1,0 +1,48 @@
+condition;symptom_short;symptom_desc;representative_words
+Depression;Anhedonia;Little interest or pleasure in doing things;anhedonia
+Depression;Anhedonia;Little interest or pleasure in doing things;disinterested
+Depression;Anhedonia;Little interest or pleasure in doing things;apathy
+Depression;Anhedonia;Little interest or pleasure in doing things;bored
+Depression;Anhedonia;Little interest or pleasure in doing things;diminished pleasure
+Depression;Anhedonia;Little interest or pleasure in doing things;lack motivation
+Depression;Anhedonia;Little interest or pleasure in doing things;lack enthusiasm
+Depression;Sad mood;Feeling down, depressed, or hopeless;sad mood
+Depression;Sad mood;Feeling down, depressed, or hopeless;depressed
+Depression;Sad mood;Feeling down, depressed, or hopeless;hopeless
+Depression;Sad mood;Feeling down, depressed, or hopeless;feel down
+Depression;Sad mood;Feeling down, depressed, or hopeless;feel empty
+Depression;Sad mood;Feeling down, depressed, or hopeless;dysphoria
+Depression;Sad mood;Feeling down, depressed, or hopeless;melancholy
+Depression;Sad mood;Feeling down, depressed, or hopeless;despair
+Depression;Sleep;Trouble falling or staying asleep, or sleeping too much;sleep
+Depression;Sleep;Trouble falling or staying asleep, or sleeping too much;insomnia
+Depression;Sleep;Trouble falling or staying asleep, or sleeping too much;sleepless
+Depression;Sleep;Trouble falling or staying asleep, or sleeping too much;hypersomnia
+Depression;Sleep;Trouble falling or staying asleep, or sleeping too much;oversleep
+Depression;Energy;Feeling tired or having little energy;fatigue
+Depression;Energy;Feeling tired or having little energy;tired
+Depression;Energy;Feeling tired or having little energy;exhausted
+Depression;Appetite;Poor appetite or overeating;poor appetite
+Depression;Appetite;Poor appetite or overeating;undereating
+Depression;Appetite;Poor appetite or overeating;overeating
+Depression;Appetite;Poor appetite or overeating;hyperphagia
+Depression;Guilt;Feeling bad about yourself or that you are a failure or have let yourself or your family down;guilt
+Depression;Guilt;Feeling bad about yourself or that you are a failure or have let yourself or your family down;self-blame
+Depression;Guilt;Feeling bad about yourself or that you are a failure or have let yourself or your family down;self-loathing
+Depression;Guilt;Feeling bad about yourself or that you are a failure or have let yourself or your family down;self-disgust
+Depression;Guilt;Feeling bad about yourself or that you are a failure or have let yourself or your family down;failure
+Depression;Guilt;Feeling bad about yourself or that you are a failure or have let yourself or your family down;disappointed
+Depression;Guilt;Feeling bad about yourself or that you are a failure or have let yourself or your family down;unworthy
+Depression;Guilt;Feeling bad about yourself or that you are a failure or have let yourself or your family down;disgrace
+Depression;Concentration;Trouble concentrating on things;difficulty concentrating
+Depression;Concentration;Trouble concentrating on things;inattentive
+Depression;Concentration;Trouble concentrating on things;poor focus
+Depression;Concentration;Trouble concentrating on things;distractible
+Depression;Motor; Moving or speaking so slowly that other people could have noticed? Or so fidgety or restless that you have been moving a lot more than usual?;sluggish
+Depression;Motor; Moving or speaking so slowly that other people could have noticed? Or so fidgety or restless that you have been moving a lot more than usual?;lethargic
+Depression;Motor; Moving or speaking so slowly that other people could have noticed? Or so fidgety or restless that you have been moving a lot more than usual?;fidgety
+Depression;Motor; Moving or speaking so slowly that other people could have noticed? Or so fidgety or restless that you have been moving a lot more than usual?;agitated
+Depression;Motor; Moving or speaking so slowly that other people could have noticed? Or so fidgety or restless that you have been moving a lot more than usual?;hyperactive
+Depression;Motor; Moving or speaking so slowly that other people could have noticed? Or so fidgety or restless that you have been moving a lot more than usual?;jittery
+Depression;Suicide;Thoughts that you would be better off dead, or thoughts of hurting yourself in some way;suicidal
+Depression;Suicide;Thoughts that you would be better off dead, or thoughts of hurting yourself in some way;self-harm
